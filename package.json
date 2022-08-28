@@ -1,0 +1,20 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "Our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat2992001/creating-first-server.git"
+  },
+  "author": "Akshat Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat2992001/creating-first-server/issues"
+  },
+  "homepage": "https://github.com/akshat2992001/creating-first-server#readme"
+}
